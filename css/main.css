@@ -132,3 +132,30 @@ header nav ul li.btn a:hover {
     top: -150px;
     right: 0;
 }
+
+
+
+/* ИГРЫ */
+
+.trending{
+    padding-top: 50px;
+}
+
+.trending h3{
+    font-weight: 600;
+    font-size: 31px;
+}
+
+.trending .see-all{
+    color: #fff;
+    background: #25211D;
+    border-radius: 5px;
+    padding: 12px 23px;
+    float: right;
+    display: block;
+    transition: all 500ms ease;
+}
+
+.trending .see-all:hover{
+    transform: scale(1.1);
+}
